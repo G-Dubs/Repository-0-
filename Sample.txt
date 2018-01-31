@@ -1,7 +1,3 @@
-This is a sample text message.
 
-Hello World.
+Another change.
 
-Good Bye.
-
-This is a different change.
